@@ -1,0 +1,360 @@
+{
+  "https://github.com/FCTostin-team/awesome-factorio-tool/blob/main/image/awesome-factorio.png)](https://github.com/FCTostin-team/awesome-factorio-tool/pulls)": {
+    "status": "excluded",
+    "note": "Malformed Markdown badge/image fragment from the old README, not a Factorio resource."
+  },
+  "https://github.com/adops-tool/awesome-lead-generation/blob/main/image/line-svg-3D444D-alg.svg\"": {
+    "status": "excluded",
+    "note": "Unrelated decorative SVG/badge fragment from the old README, not a Factorio resource."
+  },
+  "https://awesome.re/badge.svg)](https://awesome.re)": {
+    "status": "excluded",
+    "note": "Malformed awesome-list badge fragment from the old README, not a Factorio resource."
+  },
+  "https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/FCTostin-team/awesome-factorio-tool/pulls)": {
+    "status": "excluded",
+    "note": "Malformed PRs-welcome badge fragment from the old README, not a Factorio resource."
+  },
+  "https://github.com/felixlinker/factorio-blueprint": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  "https://github.com/LvanderRee/factorio-blueprint": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  "https://github.com/ChangeTheGame/factorio-blueprint": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  "https://github.com/RisingThumb/Factorio-Blueprint-String-Converter": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use the FCT decoder/encoder or typed blueprint libraries."
+  },
+  "https://github.com/Deskbot/Factorio-Blueprint-Reader": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use the FCT decoder/encoder or typed blueprint libraries."
+  },
+  "https://github.com/ConcurrentSquared/Factorio-MIDI-to-Combinator": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use Miditorio or FactorioComposer for MIDI-to-blueprint work."
+  },
+  "https://github.com/velachev/factorio-midi": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use Miditorio or FactorioComposer for MIDI-to-blueprint work."
+  },
+  "https://github.com/Quintenps/Factorio-Image-Converter": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use the Nico Kandut pixel-art/solar-art generators or Artorio."
+  },
+  "https://github.com/Arrowin/Factorio-Image-to-Blueprint": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use the Nico Kandut pixel-art/solar-art generators or Artorio."
+  },
+  "https://mods.factorio.com/mod/Inbuilt-Lighting": {
+    "status": "unavailable",
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; consider Bright Universe or Lighted Electric Poles + depending on game version."
+  },
+  "https://mods.factorio.com/mod/upgrade-builder-and-planner": {
+    "status": "unavailable",
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; use vanilla upgrade planners or Upgrade Planner-related mods after checking current portal metadata."
+  },
+  "https://mods.factorio.com/mod/fill4me": {
+    "status": "unavailable",
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; use Waterfill or Dectorio landscaping after checking current portal metadata."
+  },
+  "https://github.com/zopanix/docker-factorio-server": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use factoriotools/factorio-docker or aconti90/factorio-headless."
+  },
+  "https://github.com/majormjr/factorio-rcon-py": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use mark9064/factorio-rcon-py or factorio-rcon-api."
+  },
+  "https://github.com/narfman0/factorio-rcon": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use gtaylor/factorio-rcon, FactorioSharp.Rcon, or factorio-rcon-api."
+  },
+  "https://github.com/PrefectHQ/factorio-rcon": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use gtaylor/factorio-rcon, FactorioSharp.Rcon, or factorio-rcon-api."
+  },
+  "https://github.com/DistilledP/Factorio-Discord-Bot": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use FactoCord, FactorioChatBot, ChatWire, or D-Wire."
+  },
+  "https://github.com/tofuman0/factorio-discord-bridge": {
+    "status": "unavailable",
+    "note": "GitHub API returned 404. No verified successor was identified; use FactoCord, FactorioChatBot, ChatWire, or D-Wire."
+  },
+  "https://github.com/wube/factorio-lualib": {
+    "status": "replaced",
+    "resource_id": "wube-github",
+    "note": "The old factorio-lualib repository is not present in the Wube organization; the organization page is cataloged instead."
+  },
+  "https://github.com/FlameSla/autotorio": {
+    "status": "replaced",
+    "resource_id": "autotorio",
+    "note": "Original seed repository returned 404; the canonical Autotorio source is demipixel/autotorio."
+  },
+  "https://github.com/Nicksaurus/foreman": {
+    "status": "replaced",
+    "resource_id": "foreman2",
+    "note": "Original Foreman repository returned 404; Foreman2 is cataloged as the visual planning successor."
+  },
+  "https://github.com/Aidiakapi/factorio_sat": {
+    "status": "replaced",
+    "resource_id": "factorio-sat",
+    "note": "Original seed repository returned 404; R-O-C-K-E-T/Factorio-SAT is cataloged as the verified SAT-solver project."
+  },
+  "https://github.com/awkwardly-attentive/factorio-sat": {
+    "status": "replaced",
+    "resource_id": "factorio-sat",
+    "note": "Original seed repository returned 404; R-O-C-K-E-T/Factorio-SAT is cataloged as the verified SAT-solver project."
+  },
+  "https://github.com/Supercheese/Factorio-Blueprints": {
+    "status": "unavailable",
+    "resource_id": "supercheese-blueprints",
+    "note": "GitHub repository and GitHub Pages site were unavailable; retained as an unavailable historical entry."
+  },
+  "https://github.com/sparr/factorio-blueprint-align": {
+    "status": "replaced",
+    "resource_id": "blueprint-aligner",
+    "note": "Original seed repository returned 404; emlun/factorio-blueprint-aligner is cataloged as a verified blueprint alignment mod."
+  },
+  "https://github.com/hermann-p/miditorio": {
+    "status": "replaced",
+    "resource_id": "miditorio",
+    "note": "Original seed repository returned 404; mgabor3141/miditorio and miditorio.com are cataloged as the verified MIDI tool."
+  },
+  "https://github.com/Therenas/factoryplanner": {
+    "status": "replaced",
+    "resource_id": "factory-planner",
+    "note": "Original seed repository URL returned 404; the canonical source is ClaudeMetz/FactoryPlanner and the portal page is cataloged."
+  },
+  "https://github.com/NommyB/Squeak-Through": {
+    "status": "replaced",
+    "resource_id": "squeak-through-original",
+    "note": "Original seed repository returned 404; the original Squeak Through mod is cataloged as legacy, with Squeak Through 2 as the current alternative."
+  },
+  "https://github.com/JonasJurczok/Todo-List": {
+    "status": "replaced",
+    "resource_id": "todo-list",
+    "note": "Original mixed-case seed repository URL returned 404; JonasJurczok/factorio-todo-list is the verified source."
+  },
+  "https://github.com/mindmix/AutoDeconstruct": {
+    "status": "replaced",
+    "resource_id": "auto-deconstruct",
+    "note": "Original seed repository URL returned 404; softmix/AutoDeconstruct is the verified source."
+  },
+  "https://github.com/Zaflis/VehicleSnap": {
+    "status": "replaced",
+    "resource_id": "vehicle-snap",
+    "note": "Original seed repository URL returned 404; the VehicleSnap mod portal page is cataloged."
+  },
+  "https://github.com/Wiwiweb/Milestones": {
+    "status": "replaced",
+    "resource_id": "milestones",
+    "note": "Original seed repository URL returned 404; Wiwiweb/FactorioMilestones is the verified source."
+  },
+  "https://github.com/sanqui/factorio-belt-visualizer": {
+    "status": "replaced",
+    "resource_id": "belt-visualizer",
+    "note": "Original seed repository URL returned 404; CodeGreen0386/belt-visualizer is the verified source."
+  },
+  "https://github.com/GlassBricks/Blueprint-Sandboxes": {
+    "status": "replaced",
+    "resource_id": "blueprint-sandboxes",
+    "note": "Original seed repository URL returned 404; cameronleger/blueprint-sandboxes is the verified source."
+  },
+  "https://github.com/danielv123/disco-science": {
+    "status": "replaced",
+    "resource_id": "disco-science",
+    "note": "Original seed repository URL returned 404; danielbrauer/DiscoScience is the verified source."
+  },
+  "https://github.com/Therax/miniloader": {
+    "status": "replaced",
+    "resource_id": "miniloader",
+    "note": "Original seed repository URL returned 404; mspielberg/factorio-miniloader is the verified source."
+  },
+  "https://github.com/justarandomgeek/factorio-nixie-tubes": {
+    "status": "replaced",
+    "resource_id": "nixie-tubes",
+    "note": "Original seed repository URL returned 404; justarandomgeek/nixie-tubes is the verified source."
+  },
+  "https://github.com/anachrony/nullius": {
+    "status": "replaced",
+    "resource_id": "nullius",
+    "note": "Original seed repository URL returned 404; GregorSamsanite/nullius is the verified source."
+  },
+  "https://github.com/Pyrodactyl-Vulpine/pycoalprocessing": {
+    "status": "replaced",
+    "resource_id": "py-coal-processing",
+    "note": "Original seed repository URL returned 404; pyanodon/pycoalprocessing is the verified source."
+  },
+  "https://github.com/Bobingabout/bobsmods": {
+    "status": "replaced",
+    "resource_id": "bobs-mods",
+    "note": "Original seed repository URL returned 404; modded-factorio/bobsmods is the verified current source organization."
+  },
+  "https://github.com/grandseiken/ultracube": {
+    "status": "replaced",
+    "resource_id": "ultracube",
+    "note": "Original seed repository URL returned 404; grandseiken/factorio-ultracube is the verified source."
+  },
+  "https://github.com/rfvgyhn/factorio-docker": {
+    "status": "replaced",
+    "resource_id": "factorio-docker",
+    "note": "Original seed repository URL returned 404; factoriotools/factorio-docker is cataloged as the current community Docker image."
+  },
+  "https://github.com/Roang-zero1/Factorio-Server-Manager": {
+    "status": "replaced",
+    "resource_id": "ofsm",
+    "note": "Original seed repository URL returned 404; OpenFactorioServerManager/factorio-server-manager is the verified continuation."
+  },
+  "https://github.com/Factorio-RedMew/RedMew": {
+    "status": "replaced",
+    "resource_id": "redmew",
+    "note": "Original seed repository URL returned 404; Refactorio/RedMew is the verified source."
+  },
+  "https://github.com/ComfyFactorio/ComfyFactorio": {
+    "status": "replaced",
+    "resource_id": "comfy",
+    "note": "Original seed organization/repository URL returned 404; M3wM3w/ComfyFactorio is the verified source."
+  },
+  "https://github.com/AwF-Team/AwF-Scenario": {
+    "status": "unavailable",
+    "resource_id": "awf-scenario",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  "https://github.com/FactorioMMO/FactorioMMO": {
+    "status": "replaced",
+    "resource_id": "factoriommo",
+    "note": "Original seed repository URL returned 404; factoriommo/factoriommoscenarios preserves the historical scenario lineage."
+  },
+  "https://github.com/FishBus/FishBus": {
+    "status": "unavailable",
+    "resource_id": "fishbus",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  "https://github.com/Roang-zero1/FMTK": {
+    "status": "replaced",
+    "resource_id": "fmtk",
+    "note": "Original seed repository URL returned 404; justarandomgeek/vscode-factoriomod-debug is the canonical Factorio Mod Tool Kit."
+  },
+  "https://github.com/PennyJim/factorio-type-kit": {
+    "status": "replaced",
+    "resource_id": "factorio-type-kit",
+    "note": "Original seed repository URL returned 404; cdaringe/factorio-type-kit is archived and retained as historical."
+  },
+  "https://github.com/raiguard/flib": {
+    "status": "replaced",
+    "resource_id": "flib",
+    "note": "GitHub repository is an archived migration notice; flib source and issue tracking are on Codeberg."
+  },
+  "https://github.com/fgardt/factorio-mod-portal-client": {
+    "status": "replaced",
+    "resource_id": "mod-portal-client-php",
+    "note": "Original seed repository URL returned 404; BluePsyduck/factorio-mod-portal-client is the verified PHP portal client."
+  },
+  "https://github.com/Modo-lv/Factorio-Mod-Portal-Downloader": {
+    "status": "unavailable",
+    "resource_id": "factorio-mod-portal-downloader",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  "https://github.com/MitchRooney/FactorioModManager": {
+    "status": "unavailable",
+    "resource_id": "factorio-mod-manager-mitch",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  "https://github.com/re146/factorio-mods-portal": {
+    "status": "unavailable",
+    "resource_id": "re146-portal-source",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  "https://github.com/FactorioMaps/FactorioMaps": {
+    "status": "replaced",
+    "resource_id": "factoriomaps-mod",
+    "note": "Original seed repository URL returned 404; L0laapk3/FactorioMaps is the verified source."
+  },
+  "https://github.com/QuingKhaos/factorio-mocks-generator": {
+    "status": "unavailable",
+    "resource_id": "factorio-mocks-generator",
+    "note": "GitHub API returned 404; retained as unavailable."
+  },
+  "https://calculatorio.com/": {
+    "status": "unverified",
+    "resource_id": "calculatorio",
+    "note": "Fetch returned HTTP 500; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  "https://factoriocalc.com/": {
+    "status": "unverified",
+    "resource_id": "factoriocalc",
+    "note": "Fetch failed generically; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  "https://factorio.rotol.me/": {
+    "status": "unverified",
+    "resource_id": "rotol-calculator",
+    "note": "Fetch returned HTTP 500; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  "https://supercheese.github.io/Factorio-Blueprints/": {
+    "status": "unavailable",
+    "resource_id": "supercheese-blueprints",
+    "note": "GitHub Pages site returned 404; retained as unavailable."
+  },
+  "https://mods.factorio.com/mod/ProjectCybersyn": {
+    "status": "replaced",
+    "resource_id": "cybersyn",
+    "note": "Uppercase slug returned 404; canonical portal slug is cybersyn."
+  },
+  "https://mods.factorio.com/mod/warehousing": {
+    "status": "replaced",
+    "resource_id": "warehousing",
+    "note": "Lowercase slug returned 404; canonical portal slug is Warehousing."
+  },
+  "https://mods.factorio.com/mod/Nullius": {
+    "status": "replaced",
+    "resource_id": "nullius",
+    "note": "Uppercase slug returned 404; canonical portal slug is nullius."
+  },
+  "https://mods.factorio.com/mod/Warptorio2": {
+    "status": "replaced",
+    "resource_id": "warptorio2",
+    "note": "Uppercase slug returned 404; canonical original continuation slug is warptorio2."
+  },
+  "https://mods.factorio.com/mod/Exotic-Industries": {
+    "status": "replaced",
+    "resource_id": "exotic-industries",
+    "note": "Mixed-case slug returned 404; canonical portal slug is exotic-industries."
+  },
+  "https://mods.factorio.com/mod/nanobots": {
+    "status": "replaced",
+    "resource_id": "nanobots",
+    "note": "Lowercase slug returned 404; canonical portal slug is Nanobots."
+  },
+  "https://mods.factorio.com/mod/BeltVisualizer": {
+    "status": "replaced",
+    "resource_id": "belt-visualizer",
+    "note": "Old slug returned 404; canonical portal slug is belt-visualizer."
+  },
+  "https://mods.factorio.com/mod/Blueprint-Sandboxes": {
+    "status": "replaced",
+    "resource_id": "blueprint-sandboxes",
+    "note": "Old mixed-case slug returned 404; canonical portal slug is blueprint-sandboxes."
+  },
+  "https://mods.factorio.com/mod/bobsmods": {
+    "status": "replaced",
+    "resource_id": "bobs-mods",
+    "note": "There is no single bobsmods portal slug; Bob's mods are a family of individual components."
+  },
+  "https://burnysc2.github.io/Factorio/Tools/TrainAcceleration/": {
+    "status": "replaced",
+    "resource_id": "train-station-creator",
+    "note": "GitHub Pages URL returned 404; the related BurnySc2 train-station blueprint repository is cataloged instead."
+  },
+  "https://redmew.com/": {
+    "status": "alias",
+    "resource_id": "redmew",
+    "note": "Site fetch returned HTTP 500 during verification; the RedMew source repository is cataloged as the durable primary link."
+  }
+}

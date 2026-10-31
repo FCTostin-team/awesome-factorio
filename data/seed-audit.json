@@ -1,0 +1,1718 @@
+[
+  {
+    "url": "https://github.com/FCTostin-team/awesome-factorio-tool/blob/main/image/awesome-factorio.png)](https://github.com/FCTostin-team/awesome-factorio-tool/pulls)",
+    "status": "excluded",
+    "resource_id": null,
+    "note": "Malformed Markdown badge/image fragment from the old README, not a Factorio resource."
+  },
+  {
+    "url": "https://github.com/adops-tool/awesome-lead-generation/blob/main/image/line-svg-3D444D-alg.svg\"",
+    "status": "excluded",
+    "resource_id": null,
+    "note": "Unrelated decorative SVG/badge fragment from the old README, not a Factorio resource."
+  },
+  {
+    "url": "https://awesome.re/badge.svg)](https://awesome.re)",
+    "status": "excluded",
+    "resource_id": null,
+    "note": "Malformed awesome-list badge fragment from the old README, not a Factorio resource."
+  },
+  {
+    "url": "https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/FCTostin-team/awesome-factorio-tool/pulls)",
+    "status": "excluded",
+    "resource_id": null,
+    "note": "Malformed PRs-welcome badge fragment from the old README, not a Factorio resource."
+  },
+  {
+    "url": "https://www.factorio.com/",
+    "status": "included",
+    "resource_id": "factorio-home",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.factorio.com/blog/",
+    "status": "included",
+    "resource_id": "factorio-blog",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/",
+    "status": "included",
+    "resource_id": "factorio-wiki",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/Tutorial:Combinator_tutorial",
+    "status": "included",
+    "resource_id": "wiki-combinator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/Tutorial:Circuit_network_cookbook",
+    "status": "included",
+    "resource_id": "wiki-circuit-cookbook",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/Tutorial:Train_signals",
+    "status": "included",
+    "resource_id": "wiki-train-signals",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/Console",
+    "status": "included",
+    "resource_id": "wiki-console",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://wiki.factorio.com/Keyboard_bindings",
+    "status": "alias",
+    "resource_id": "wiki-controls",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/",
+    "status": "included",
+    "resource_id": "factorio-mod-portal",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://forums.factorio.com/",
+    "status": "included",
+    "resource_id": "factorio-forums",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://lua-api.factorio.com/",
+    "status": "alias",
+    "resource_id": "factorio-lua-api",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/wube",
+    "status": "included",
+    "resource_id": "wube-github",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/wube/factorio-data",
+    "status": "included",
+    "resource_id": "factorio-data",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/wube/factorio-lualib",
+    "status": "replaced",
+    "resource_id": "wube-github",
+    "note": "The old factorio-lualib repository is not present in the Wube organization; the organization page is cataloged instead."
+  },
+  {
+    "url": "https://github.com/FCTostin-team",
+    "status": "included",
+    "resource_id": "fctostin-team",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/blueprint-text_formatter/",
+    "status": "included",
+    "resource_id": "fct-text-formatter",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/blueprint-text_formatter",
+    "status": "included-as-source",
+    "resource_id": "fct-text-formatter",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/fonts-online_rich_text/",
+    "status": "included",
+    "resource_id": "fct-fonts-rich-text",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/fonts-online_rich_text",
+    "status": "included-as-source",
+    "resource_id": "fct-fonts-rich-text",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/solar-accumulator-calculator/",
+    "status": "included",
+    "resource_id": "fct-solar-calculator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/solar-accumulator-calculator",
+    "status": "included-as-source",
+    "resource_id": "fct-solar-calculator",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/market-code_generator/",
+    "status": "included",
+    "resource_id": "fct-market-generator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/market-code_generator",
+    "status": "included-as-source",
+    "resource_id": "fct-market-generator",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/linked-belt/",
+    "status": "included",
+    "resource_id": "fct-linked-belt",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/linked-belt",
+    "status": "included-as-source",
+    "resource_id": "fct-linked-belt",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/progress-bar_display-panel/",
+    "status": "included",
+    "resource_id": "fct-progress-bar",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/progress-bar_display-panel",
+    "status": "included-as-source",
+    "resource_id": "fct-progress-bar",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/Factorio-Achievement-Unlocker",
+    "status": "included",
+    "resource_id": "fct-achievement-unlocker",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/Factorio-server-admin-Devkit",
+    "status": "included",
+    "resource_id": "fct-admin-devkit",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/blueprint-code_compression/",
+    "status": "included",
+    "resource_id": "fct-blueprint-compression",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/blueprint-code_compression",
+    "status": "included-as-source",
+    "resource_id": "fct-blueprint-compression",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/blueprints-book-rich_text/",
+    "status": "included",
+    "resource_id": "fct-book-rich-text",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/blueprints-book-rich_text",
+    "status": "included-as-source",
+    "resource_id": "fct-book-rich-text",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://fctostin-team.github.io/blueprints-decoder_encoder/",
+    "status": "included",
+    "resource_id": "fct-blueprint-decoder",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FCTostin-team/blueprints-decoder_encoder",
+    "status": "included-as-source",
+    "resource_id": "fct-blueprint-decoder",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://www.autotorio.com/",
+    "status": "included",
+    "resource_id": "autotorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.autotorio.com/github",
+    "status": "alias",
+    "resource_id": "autotorio",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://www.autotorio.com/blueprint",
+    "status": "alias",
+    "resource_id": "autotorio",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://www.autotorio.com/outpost",
+    "status": "alias",
+    "resource_id": "autotorio",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://www.autotorio.com/oil",
+    "status": "alias",
+    "resource_id": "autotorio",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/FlameSla/autotorio",
+    "status": "replaced",
+    "resource_id": "autotorio",
+    "note": "Original seed repository returned 404; the canonical Autotorio source is demipixel/autotorio."
+  },
+  {
+    "url": "https://factoriocheatsheet.com/",
+    "status": "included",
+    "resource_id": "factorio-cheatsheet",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factoriocheatsheet.com/#Useful%20Quality-of-Life%20mods_Small%20gameplay%20additions",
+    "status": "alias",
+    "resource_id": "factorio-cheatsheet",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://factoriocheatsheet.com/#links",
+    "status": "alias",
+    "resource_id": "factorio-cheatsheet",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://dddgamer.github.io/factorio-cheat-sheet/",
+    "status": "alias",
+    "resource_id": "factorio-cheatsheet",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/deniszholob/factorio-cheat-sheet",
+    "status": "included-as-source",
+    "resource_id": "factorio-cheatsheet",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://factoriolab.github.io/",
+    "status": "included",
+    "resource_id": "factoriolab",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/factoriolab/factoriolab",
+    "status": "included-as-source",
+    "resource_id": "factoriolab",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://kirkmcdonald.github.io/",
+    "status": "alias",
+    "resource_id": "kirk-mcdonald-calculator",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://kirkmcdonald.github.io/calc.html",
+    "status": "included",
+    "resource_id": "kirk-mcdonald-calculator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/KirkMcDonald/kirkmcdonald.github.io",
+    "status": "included-as-source",
+    "resource_id": "kirk-mcdonald-calculator",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/shpaass/yafc-ce",
+    "status": "alias",
+    "resource_id": "yafc-ce",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/Dorus/yafc-ce",
+    "status": "alias",
+    "resource_id": "yafc-ce",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/ShadowTheAge/yafc",
+    "status": "included",
+    "resource_id": "yafc-original",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/DanielKote/Foreman2",
+    "status": "included",
+    "resource_id": "foreman2",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Nicksaurus/foreman",
+    "status": "replaced",
+    "resource_id": "foreman2",
+    "note": "Original Foreman repository returned 404; Foreman2 is cataloged as the visual planning successor."
+  },
+  {
+    "url": "https://doomeer.com/factorio/",
+    "status": "included",
+    "resource_id": "doomeer-planner",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/doomeer/factorio",
+    "status": "included-as-source",
+    "resource_id": "doomeer-planner",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://factoriocalculator.blog/",
+    "status": "included",
+    "resource_id": "factoriocalculator-blog",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://calculatorio.com/",
+    "status": "unverified",
+    "resource_id": "calculatorio",
+    "note": "Fetch returned HTTP 500; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  {
+    "url": "https://factoriocalc.com/",
+    "status": "unverified",
+    "resource_id": "factoriocalc",
+    "note": "Fetch failed generically; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  {
+    "url": "https://factorio.rotol.me/",
+    "status": "unverified",
+    "resource_id": "rotol-calculator",
+    "note": "Fetch returned HTTP 500; availability is uncertain and the entry is not rendered as a live recommendation."
+  },
+  {
+    "url": "https://burnysc2.github.io/Factorio/Tools/TrainAcceleration/",
+    "status": "replaced",
+    "resource_id": "train-station-creator",
+    "note": "GitHub Pages URL returned 404; the related BurnySc2 train-station blueprint repository is cataloged instead."
+  },
+  {
+    "url": "https://codepen.io/Tickthokk/full/NBbKPZ/",
+    "status": "included",
+    "resource_id": "tickthokk-ratio-calculator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/R-O-C-K-E-T/Factorio-SAT",
+    "status": "included",
+    "resource_id": "factorio-sat",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Aidiakapi/factorio_sat",
+    "status": "replaced",
+    "resource_id": "factorio-sat",
+    "note": "Original seed repository returned 404; R-O-C-K-E-T/Factorio-SAT is cataloged as the verified SAT-solver project."
+  },
+  {
+    "url": "https://github.com/awkwardly-attentive/factorio-sat",
+    "status": "replaced",
+    "resource_id": "factorio-sat",
+    "note": "Original seed repository returned 404; R-O-C-K-E-T/Factorio-SAT is cataloged as the verified SAT-solver project."
+  },
+  {
+    "url": "https://github.com/iTitus/factorio-recipes",
+    "status": "included",
+    "resource_id": "factorio-recipes",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factorioprints.com/",
+    "status": "included",
+    "resource_id": "factorioprints",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FactorioBlueprints/factorio-prints",
+    "status": "included-as-source",
+    "resource_id": "factorioprints",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://www.factorio.school/",
+    "status": "included",
+    "resource_id": "factorio-school",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factoriobin.com/",
+    "status": "included",
+    "resource_id": "factoriobin",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.factoriocodex.com/",
+    "status": "included",
+    "resource_id": "factoriocodex",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factorioblueprints.tech/",
+    "status": "included",
+    "resource_id": "factorioblueprints-tech",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://supercheese.github.io/Factorio-Blueprints/",
+    "status": "unavailable",
+    "resource_id": "supercheese-blueprints",
+    "note": "GitHub Pages site returned 404; retained as unavailable."
+  },
+  {
+    "url": "https://github.com/Supercheese/Factorio-Blueprints",
+    "status": "unavailable",
+    "resource_id": "supercheese-blueprints",
+    "note": "GitHub repository and GitHub Pages site were unavailable; retained as an unavailable historical entry."
+  },
+  {
+    "url": "https://github.com/raynquist/balancer",
+    "status": "included",
+    "resource_id": "balancer-book",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/MaxiumeGaming/Factorio",
+    "status": "included",
+    "resource_id": "maxiume-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://fbe.teoxoy.com/",
+    "status": "included",
+    "resource_id": "fbe-teoxoy",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/teoxoy/factorio-blueprint-editor",
+    "status": "included-as-source",
+    "resource_id": "fbe-teoxoy",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://christoph-frick.github.io/factorio-blueprint-tools/",
+    "status": "included",
+    "resource_id": "christoph-blueprint-tools",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/christoph-frick/factorio-blueprint-tools",
+    "status": "included-as-source",
+    "resource_id": "christoph-blueprint-tools",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://piebro.github.io/factorio-blueprint-visualizer/",
+    "status": "included",
+    "resource_id": "piebro-visualizer",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/piebro/factorio-blueprint-visualizer",
+    "status": "included-as-source",
+    "resource_id": "piebro-visualizer",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/redruin1/factorio-draftsman",
+    "status": "included",
+    "resource_id": "factorio-draftsman",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/demodude4u/Factorio-FBSR",
+    "status": "included",
+    "resource_id": "factorio-fbsr",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/JensForstmann/factorio-blueprint-tools",
+    "status": "included",
+    "resource_id": "jensforstmann-blueprint-tools",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/felixlinker/factorio-blueprint",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  {
+    "url": "https://github.com/LvanderRee/factorio-blueprint",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  {
+    "url": "https://github.com/ChangeTheGame/factorio-blueprint",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use factorio-draftsman or demipixel/factorio-blueprint for current blueprint libraries."
+  },
+  {
+    "url": "https://github.com/Jason-Clement/Factorio-Blueprint-Tool",
+    "status": "included",
+    "resource_id": "jason-clement-blueprint-tool",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/35mt/factorio-blueprint-generator-java",
+    "status": "included",
+    "resource_id": "35mt-blueprint-generator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/RisingThumb/Factorio-Blueprint-String-Converter",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use the FCT decoder/encoder or typed blueprint libraries."
+  },
+  {
+    "url": "https://github.com/Deskbot/Factorio-Blueprint-Reader",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use the FCT decoder/encoder or typed blueprint libraries."
+  },
+  {
+    "url": "https://github.com/sparr/factorio-blueprint-align",
+    "status": "replaced",
+    "resource_id": "blueprint-aligner",
+    "note": "Original seed repository returned 404; emlun/factorio-blueprint-aligner is cataloged as a verified blueprint alignment mod."
+  },
+  {
+    "url": "https://github.com/Redcrafter/verilog2factorio",
+    "status": "included-as-source",
+    "resource_id": "verilog2factorio",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://charredutensil.github.io/cnide/",
+    "status": "included",
+    "resource_id": "cnide",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/charredUtensil/cnide",
+    "status": "included-as-source",
+    "resource_id": "cnide",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://miditorio.com/",
+    "status": "included",
+    "resource_id": "miditorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/hermann-p/miditorio",
+    "status": "replaced",
+    "resource_id": "miditorio",
+    "note": "Original seed repository returned 404; mgabor3141/miditorio and miditorio.com are cataloged as the verified MIDI tool."
+  },
+  {
+    "url": "https://github.com/ConcurrentSquared/Factorio-MIDI-to-Combinator",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use Miditorio or FactorioComposer for MIDI-to-blueprint work."
+  },
+  {
+    "url": "https://github.com/velachev/factorio-midi",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use Miditorio or FactorioComposer for MIDI-to-blueprint work."
+  },
+  {
+    "url": "https://github.com/Quintenps/Factorio-Image-Converter",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use the Nico Kandut pixel-art/solar-art generators or Artorio."
+  },
+  {
+    "url": "https://github.com/Arrowin/Factorio-Image-to-Blueprint",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use the Nico Kandut pixel-art/solar-art generators or Artorio."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/helmod",
+    "status": "included",
+    "resource_id": "helmod",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Helfima/helmod",
+    "status": "included-as-source",
+    "resource_id": "helmod",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/factoryplanner",
+    "status": "included",
+    "resource_id": "factory-planner",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Therenas/factoryplanner",
+    "status": "replaced",
+    "resource_id": "factory-planner",
+    "note": "Original seed repository URL returned 404; the canonical source is ClaudeMetz/FactoryPlanner and the portal page is cataloged."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/RateCalculator",
+    "status": "included",
+    "resource_id": "rate-calculator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://codeberg.org/raiguard/RateCalculator",
+    "status": "included-as-source",
+    "resource_id": "rate-calculator",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/RateCalculator",
+    "status": "alias",
+    "resource_id": "rate-calculator",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/MaxRateCalculator",
+    "status": "included",
+    "resource_id": "max-rate-calculator",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/FNEI",
+    "status": "included",
+    "resource_id": "fnei",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/npo6ka/FNEI",
+    "status": "included-as-source",
+    "resource_id": "fnei",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/RecipeBook",
+    "status": "included",
+    "resource_id": "recipe-book",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://codeberg.org/raiguard/RecipeBook",
+    "status": "alias",
+    "resource_id": "recipe-book",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/what-is-it-really-used-for",
+    "status": "included",
+    "resource_id": "what-is-it-really-used-for",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Bottleneck",
+    "status": "included",
+    "resource_id": "bottleneck",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/troelsbjerre/Bottleneck",
+    "status": "included-as-source",
+    "resource_id": "bottleneck",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/BottleneckLite",
+    "status": "included",
+    "resource_id": "bottleneck-lite",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/BottleneckLite",
+    "status": "alias",
+    "resource_id": "bottleneck-lite",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/even-distribution",
+    "status": "included",
+    "resource_id": "even-distribution",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/321freddy/even-distribution",
+    "status": "included-as-source",
+    "resource_id": "even-distribution",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Squeak%20Through",
+    "status": "included",
+    "resource_id": "squeak-through-original",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/NommyB/Squeak-Through",
+    "status": "replaced",
+    "resource_id": "squeak-through-original",
+    "note": "Original seed repository returned 404; the original Squeak Through mod is cataloged as legacy, with Squeak Through 2 as the current alternative."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/far-reach",
+    "status": "included",
+    "resource_id": "far-reach",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/long-reach",
+    "status": "included",
+    "resource_id": "long-reach",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/afraid-of-the-dark",
+    "status": "included",
+    "resource_id": "bright-universe",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/LightedPolesPlus",
+    "status": "included",
+    "resource_id": "lighted-poles-plus",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Inbuilt-Lighting",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; consider Bright Universe or Lighted Electric Poles + depending on game version."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Todo-List",
+    "status": "included",
+    "resource_id": "todo-list",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/JonasJurczok/Todo-List",
+    "status": "replaced",
+    "resource_id": "todo-list",
+    "note": "Original mixed-case seed repository URL returned 404; JonasJurczok/factorio-todo-list is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/TaskList",
+    "status": "included",
+    "resource_id": "task-list",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/ModuleInserter",
+    "status": "included",
+    "resource_id": "module-inserter",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/ModuleInserterSimplified",
+    "status": "included",
+    "resource_id": "module-inserter-simplified",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/YARM",
+    "status": "included",
+    "resource_id": "yarm",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/narc0tiq/YARM",
+    "status": "included-as-source",
+    "resource_id": "yarm",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/AutoDeconstruct",
+    "status": "included",
+    "resource_id": "auto-deconstruct",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/mindmix/AutoDeconstruct",
+    "status": "replaced",
+    "resource_id": "auto-deconstruct",
+    "note": "Original seed repository URL returned 404; softmix/AutoDeconstruct is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/nanobots",
+    "status": "replaced",
+    "resource_id": "nanobots",
+    "note": "Lowercase slug returned 404; canonical portal slug is Nanobots."
+  },
+  {
+    "url": "https://github.com/Nexela/Nanobots",
+    "status": "included-as-source",
+    "resource_id": "nanobots",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/upgrade-builder-and-planner",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; use vanilla upgrade planners or Upgrade Planner-related mods after checking current portal metadata."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/VehicleSnap",
+    "status": "included",
+    "resource_id": "vehicle-snap",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Zaflis/VehicleSnap",
+    "status": "replaced",
+    "resource_id": "vehicle-snap",
+    "note": "Original seed repository URL returned 404; the VehicleSnap mod portal page is cataloged."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/PavementDriveAssistContinued",
+    "status": "included",
+    "resource_id": "pavement-drive-assist",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/EvoGUI",
+    "status": "included",
+    "resource_id": "evogui",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/StatsGui",
+    "status": "included",
+    "resource_id": "stats-gui",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Milestones",
+    "status": "included",
+    "resource_id": "milestones",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Wiwiweb/Milestones",
+    "status": "replaced",
+    "resource_id": "milestones",
+    "note": "Original seed repository URL returned 404; Wiwiweb/FactorioMilestones is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/QuickItemSearch",
+    "status": "included",
+    "resource_id": "quick-item-search",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/QuickItemSearch",
+    "status": "included-as-source",
+    "resource_id": "quick-item-search",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/CursorEnhancements",
+    "status": "included",
+    "resource_id": "cursor-enhancements",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/CursorEnhancements",
+    "status": "alias",
+    "resource_id": "cursor-enhancements",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Tapeline",
+    "status": "included",
+    "resource_id": "tapeline",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/Tapeline",
+    "status": "alias",
+    "resource_id": "tapeline",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/PipeVisualizer",
+    "status": "included",
+    "resource_id": "pipe-visualizer",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/PipeVisualizer",
+    "status": "included-as-source",
+    "resource_id": "pipe-visualizer",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/BeltVisualizer",
+    "status": "replaced",
+    "resource_id": "belt-visualizer",
+    "note": "Old slug returned 404; canonical portal slug is belt-visualizer."
+  },
+  {
+    "url": "https://github.com/sanqui/factorio-belt-visualizer",
+    "status": "replaced",
+    "resource_id": "belt-visualizer",
+    "note": "Original seed repository URL returned 404; CodeGreen0386/belt-visualizer is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/SpidertronEnhancements",
+    "status": "included",
+    "resource_id": "spidertron-enhancements",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/tburrows13/SpidertronEnhancements",
+    "status": "included-as-source",
+    "resource_id": "spidertron-enhancements",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Constructron-Continued",
+    "status": "included",
+    "resource_id": "constructron",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Blueprint-Sandboxes",
+    "status": "replaced",
+    "resource_id": "blueprint-sandboxes",
+    "note": "Old mixed-case slug returned 404; canonical portal slug is blueprint-sandboxes."
+  },
+  {
+    "url": "https://github.com/GlassBricks/Blueprint-Sandboxes",
+    "status": "replaced",
+    "resource_id": "blueprint-sandboxes",
+    "note": "Original seed repository URL returned 404; cameronleger/blueprint-sandboxes is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/editor-extensions",
+    "status": "included",
+    "resource_id": "editor-extensions",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/EditorExtensions",
+    "status": "alias",
+    "resource_id": "editor-extensions",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/creative-mod",
+    "status": "included",
+    "resource_id": "creative-mod",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/rso-mod",
+    "status": "included",
+    "resource_id": "rso",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/FARL",
+    "status": "included",
+    "resource_id": "farl",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Choumiko/FARL",
+    "status": "included-as-source",
+    "resource_id": "farl",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/LogisticTrainNetwork",
+    "status": "included",
+    "resource_id": "ltn",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Yousei9/Logistic-Train-Network",
+    "status": "alias",
+    "resource_id": "ltn",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/ProjectCybersyn",
+    "status": "replaced",
+    "resource_id": "cybersyn",
+    "note": "Uppercase slug returned 404; canonical portal slug is cybersyn."
+  },
+  {
+    "url": "https://github.com/mamoniot/project-cybersyn",
+    "status": "included-as-source",
+    "resource_id": "cybersyn",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/fill4me",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "Mod Portal page returned 404. No canonical replacement was verified; use Waterfill or Dectorio landscaping after checking current portal metadata."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/tree_collision",
+    "status": "included",
+    "resource_id": "tree-collision",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/CleanedConcrete",
+    "status": "included",
+    "resource_id": "cleaned-concrete",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/dectorio",
+    "status": "included",
+    "resource_id": "dectorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/jpanther/Dectorio",
+    "status": "included-as-source",
+    "resource_id": "dectorio",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/textplates",
+    "status": "included",
+    "resource_id": "text-plates",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/alien-biomes",
+    "status": "included",
+    "resource_id": "alien-biomes",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/DiscoScience",
+    "status": "included",
+    "resource_id": "disco-science",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/danielv123/disco-science",
+    "status": "replaced",
+    "resource_id": "disco-science",
+    "note": "Original seed repository URL returned 404; danielbrauer/DiscoScience is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/bullet-trails",
+    "status": "included",
+    "resource_id": "bullet-trails",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/grappling-gun",
+    "status": "included",
+    "resource_id": "grappling-gun",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/jetpack",
+    "status": "included",
+    "resource_id": "jetpack",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Waterfill_v17",
+    "status": "included",
+    "resource_id": "waterfill",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/warehousing",
+    "status": "replaced",
+    "resource_id": "warehousing",
+    "note": "Lowercase slug returned 404; canonical portal slug is Warehousing."
+  },
+  {
+    "url": "https://github.com/Warehousing/Warehousing",
+    "status": "included-as-source",
+    "resource_id": "warehousing",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/miniloader",
+    "status": "included",
+    "resource_id": "miniloader",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Therax/miniloader",
+    "status": "replaced",
+    "resource_id": "miniloader",
+    "note": "Original seed repository URL returned 404; mspielberg/factorio-miniloader is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/aai-containers",
+    "status": "included",
+    "resource_id": "aai-containers",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/aai-vehicles-miner",
+    "status": "included",
+    "resource_id": "aai-vehicles-miner",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/nixie-tubes",
+    "status": "included",
+    "resource_id": "nixie-tubes",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/justarandomgeek/factorio-nixie-tubes",
+    "status": "replaced",
+    "resource_id": "nixie-tubes",
+    "note": "Original seed repository URL returned 404; justarandomgeek/nixie-tubes is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/pushbutton",
+    "status": "included",
+    "resource_id": "pushbutton",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/justarandomgeek/factorio-pushbutton",
+    "status": "included-as-source",
+    "resource_id": "pushbutton",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/justarandomgeek/factorio-computer",
+    "status": "included",
+    "resource_id": "factorio-computer",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Krastorio2",
+    "status": "included",
+    "resource_id": "krastorio2",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/Krastorio2",
+    "status": "alias",
+    "resource_id": "krastorio2",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/space-exploration",
+    "status": "included",
+    "resource_id": "space-exploration",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/IndustrialRevolution3",
+    "status": "included",
+    "resource_id": "industrial-revolution3",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/SeaBlock",
+    "status": "included",
+    "resource_id": "seablock-original",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/KiwiHawk/SeaBlock",
+    "status": "alias",
+    "resource_id": "seablock-original",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Nullius",
+    "status": "replaced",
+    "resource_id": "nullius",
+    "note": "Uppercase slug returned 404; canonical portal slug is nullius."
+  },
+  {
+    "url": "https://github.com/anachrony/nullius",
+    "status": "replaced",
+    "resource_id": "nullius",
+    "note": "Original seed repository URL returned 404; GregorSamsanite/nullius is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/pycoalprocessing",
+    "status": "included",
+    "resource_id": "py-coal-processing",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Pyrodactyl-Vulpine/pycoalprocessing",
+    "status": "replaced",
+    "resource_id": "py-coal-processing",
+    "note": "Original seed repository URL returned 404; pyanodon/pycoalprocessing is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/bobsmods",
+    "status": "replaced",
+    "resource_id": "bobs-mods",
+    "note": "There is no single bobsmods portal slug; Bob's mods are a family of individual components."
+  },
+  {
+    "url": "https://github.com/Bobingabout/bobsmods",
+    "status": "replaced",
+    "resource_id": "bobs-mods",
+    "note": "Original seed repository URL returned 404; modded-factorio/bobsmods is the verified current source organization."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/angelsrefining",
+    "status": "included",
+    "resource_id": "angels-refining",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Arch666Angel/mods",
+    "status": "included-as-source",
+    "resource_id": "angels-refining",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Ultracube",
+    "status": "included",
+    "resource_id": "ultracube",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/grandseiken/ultracube",
+    "status": "replaced",
+    "resource_id": "ultracube",
+    "note": "Original seed repository URL returned 404; grandseiken/factorio-ultracube is the verified source."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Warptorio2",
+    "status": "replaced",
+    "resource_id": "warptorio2",
+    "note": "Uppercase slug returned 404; canonical original continuation slug is warptorio2."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/Exotic-Industries",
+    "status": "replaced",
+    "resource_id": "exotic-industries",
+    "note": "Mixed-case slug returned 404; canonical portal slug is exotic-industries."
+  },
+  {
+    "url": "https://github.com/PreLeyZero/Exotic-Industries",
+    "status": "included-as-source",
+    "resource_id": "exotic-industries",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/LunarLandings",
+    "status": "included",
+    "resource_id": "lunar-landings",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/tburrows13/LunarLandings",
+    "status": "included-as-source",
+    "resource_id": "lunar-landings",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/FreightForwarding",
+    "status": "included",
+    "resource_id": "freight-forwarding",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/tburrows13/FreightForwarding",
+    "status": "included-as-source",
+    "resource_id": "freight-forwarding",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/factoriotools/factorio-docker",
+    "status": "included",
+    "resource_id": "factorio-docker",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/zopanix/docker-factorio-server",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use factoriotools/factorio-docker or aconti90/factorio-headless."
+  },
+  {
+    "url": "https://github.com/rfvgyhn/factorio-docker",
+    "status": "replaced",
+    "resource_id": "factorio-docker",
+    "note": "Original seed repository URL returned 404; factoriotools/factorio-docker is cataloged as the current community Docker image."
+  },
+  {
+    "url": "https://github.com/clusterio/clusterio",
+    "status": "included",
+    "resource_id": "clusterio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/OpenFactorioServerManager/factorio-server-manager",
+    "status": "included",
+    "resource_id": "ofsm",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Roang-zero1/Factorio-Server-Manager",
+    "status": "replaced",
+    "resource_id": "ofsm",
+    "note": "Original seed repository URL returned 404; OpenFactorioServerManager/factorio-server-manager is the verified continuation."
+  },
+  {
+    "url": "https://github.com/Bisa/factorio-init",
+    "status": "included",
+    "resource_id": "factorio-init",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://linuxgsm.com/servers/fctrserver/",
+    "status": "included",
+    "resource_id": "linuxgsm-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/GameServerManagers/LinuxGSM",
+    "status": "included-as-source",
+    "resource_id": "linuxgsm-factorio",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/majormjr/factorio-rcon-py",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use mark9064/factorio-rcon-py or factorio-rcon-api."
+  },
+  {
+    "url": "https://github.com/narfman0/factorio-rcon",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use gtaylor/factorio-rcon, FactorioSharp.Rcon, or factorio-rcon-api."
+  },
+  {
+    "url": "https://github.com/gtaylor/factorio-rcon",
+    "status": "included",
+    "resource_id": "gtaylor-rcon",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/PrefectHQ/factorio-rcon",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use gtaylor/factorio-rcon, FactorioSharp.Rcon, or factorio-rcon-api."
+  },
+  {
+    "url": "https://github.com/DistilledP/Factorio-Discord-Bot",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use FactoCord, FactorioChatBot, ChatWire, or D-Wire."
+  },
+  {
+    "url": "https://github.com/tofuman0/factorio-discord-bridge",
+    "status": "unavailable",
+    "resource_id": null,
+    "note": "GitHub API returned 404. No verified successor was identified; use FactoCord, FactorioChatBot, ChatWire, or D-Wire."
+  },
+  {
+    "url": "https://github.com/efokschaner/terraform-provider-factorio",
+    "status": "included",
+    "resource_id": "terraform-factorio-provider",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factorio.zone/",
+    "status": "included",
+    "resource_id": "factorio-zone",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://redmew.com/",
+    "status": "alias",
+    "resource_id": "redmew",
+    "note": "Site fetch returned HTTP 500 during verification; the RedMew source repository is cataloged as the durable primary link."
+  },
+  {
+    "url": "https://github.com/Factorio-RedMew/RedMew",
+    "status": "replaced",
+    "resource_id": "redmew",
+    "note": "Original seed repository URL returned 404; Refactorio/RedMew is the verified source."
+  },
+  {
+    "url": "https://getcomfy.eu/",
+    "status": "alias",
+    "resource_id": "comfy",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/ComfyFactorio/ComfyFactorio",
+    "status": "replaced",
+    "resource_id": "comfy",
+    "note": "Original seed organization/repository URL returned 404; M3wM3w/ComfyFactorio is the verified source."
+  },
+  {
+    "url": "https://github.com/AwF-Team/AwF-Scenario",
+    "status": "unavailable",
+    "resource_id": "awf-scenario",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/FactorioMMO/FactorioMMO",
+    "status": "replaced",
+    "resource_id": "factoriommo",
+    "note": "Original seed repository URL returned 404; factoriommo/factoriommoscenarios preserves the historical scenario lineage."
+  },
+  {
+    "url": "https://github.com/FishBus/FishBus",
+    "status": "unavailable",
+    "resource_id": "fishbus",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/ExplosiveGaming/scenario",
+    "status": "alias",
+    "resource_id": "expcluster",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/Oarcinae/FactorioScenarioMultiplayerSpawn",
+    "status": "included",
+    "resource_id": "oarc-spawn",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/justarandomgeek/vscode-factoriomod-debug",
+    "status": "included",
+    "resource_id": "fmtk",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Roang-zero1/FMTK",
+    "status": "replaced",
+    "resource_id": "fmtk",
+    "note": "Original seed repository URL returned 404; justarandomgeek/vscode-factoriomod-debug is the canonical Factorio Mod Tool Kit."
+  },
+  {
+    "url": "https://github.com/JanSharp/FactorioSumnekoLuaPlugin",
+    "status": "included",
+    "resource_id": "sumneko-plugin",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/GlassBricks/typed-factorio",
+    "status": "included",
+    "resource_id": "typed-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/PennyJim/factorio-type-kit",
+    "status": "replaced",
+    "resource_id": "factorio-type-kit",
+    "note": "Original seed repository URL returned 404; cdaringe/factorio-type-kit is archived and retained as historical."
+  },
+  {
+    "url": "https://github.com/Afforess/Factorio-Stdlib",
+    "status": "included",
+    "resource_id": "factorio-stdlib",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://codeberg.org/raiguard/flib",
+    "status": "alias",
+    "resource_id": "flib",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/raiguard/flib",
+    "status": "replaced",
+    "resource_id": "flib",
+    "note": "GitHub repository is an archived migration notice; flib source and issue tracking are on Codeberg."
+  },
+  {
+    "url": "https://mods.factorio.com/mod/flib",
+    "status": "included",
+    "resource_id": "flib",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/demodude4u/Java-Factorio-Data-Wrapper",
+    "status": "included",
+    "resource_id": "java-data-wrapper",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/fgardt/factorio-mod-portal-client",
+    "status": "replaced",
+    "resource_id": "mod-portal-client-php",
+    "note": "Original seed repository URL returned 404; BluePsyduck/factorio-mod-portal-client is the verified PHP portal client."
+  },
+  {
+    "url": "https://github.com/nickolasbradham/Factorio-Mod-Downloader",
+    "status": "included",
+    "resource_id": "nickolasbradham-mod-downloader",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/Modo-lv/Factorio-Mod-Portal-Downloader",
+    "status": "unavailable",
+    "resource_id": "factorio-mod-portal-downloader",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/MitchRooney/FactorioModManager",
+    "status": "unavailable",
+    "resource_id": "factorio-mod-manager-mitch",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://re146.dev/factorio/mods/en",
+    "status": "included",
+    "resource_id": "re146-mods",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/re146/factorio-mods-portal",
+    "status": "unavailable",
+    "resource_id": "re146-portal-source",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/factoriolab/factoriolab-export",
+    "status": "included",
+    "resource_id": "factoriolab-export",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/factoriolab/factorio-lab-tools",
+    "status": "included",
+    "resource_id": "factorio-lab-tools",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://factoriomaps.com/",
+    "status": "alias",
+    "resource_id": "factoriomaps-mod",
+    "note": "Seed URL is retained as an alias, old slug, or alternate front door for the canonical catalog entry."
+  },
+  {
+    "url": "https://github.com/FactorioMaps/FactorioMaps",
+    "status": "replaced",
+    "resource_id": "factoriomaps-mod",
+    "note": "Original seed repository URL returned 404; L0laapk3/FactorioMaps is the verified source."
+  },
+  {
+    "url": "https://github.com/nickolasbradham/Factorio-Screenshot-Stitcher",
+    "status": "included",
+    "resource_id": "screenshot-stitcher",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/eisenefaust/factorio_tricks_iceberg",
+    "status": "included-as-source",
+    "resource_id": "factorio-tricks-iceberg",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://alt-f4.blog/",
+    "status": "included",
+    "resource_id": "alt-f4",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/AlternativeFFFF/Alt-F4",
+    "status": "included-as-source",
+    "resource_id": "alt-f4",
+    "note": "Seed URL is retained as the source/repository link for the catalog entry."
+  },
+  {
+    "url": "https://www.speedrun.com/factorio",
+    "status": "included",
+    "resource_id": "speedrun-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.reddit.com/r/factorio/",
+    "status": "included",
+    "resource_id": "reddit-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.reddit.com/r/factorio/wiki/index",
+    "status": "included",
+    "resource_id": "reddit-wiki",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.reddit.com/r/FactorioBlueprints/",
+    "status": "included",
+    "resource_id": "reddit-blueprints",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://www.reddit.com/r/technicalfactorio/",
+    "status": "included",
+    "resource_id": "reddit-technical",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=862972621",
+    "status": "included",
+    "resource_id": "steam-smelting-guide",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://discord.gg/factorio",
+    "status": "included",
+    "resource_id": "official-discord",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/topics/factorio",
+    "status": "included",
+    "resource_id": "github-topic-factorio",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/topics/factorio-mod",
+    "status": "included",
+    "resource_id": "github-topic-factorio-mod",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/topics/factorio-blueprints",
+    "status": "included",
+    "resource_id": "github-topic-factorio-blueprints",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  },
+  {
+    "url": "https://github.com/topics/factorio-tool",
+    "status": "included",
+    "resource_id": "github-topic-factorio-tool",
+    "note": "Seed URL is the canonical primary link for the catalog entry."
+  }
+]
