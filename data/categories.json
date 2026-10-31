@@ -1,0 +1,72 @@
+[
+  {
+    "id": "official",
+    "title": "Official resources",
+    "description": "Start here for authoritative downloads, expansion information, development news, wiki documentation, mod distribution, and API references."
+  },
+  {
+    "id": "reference",
+    "title": "Reference, tutorials, and guides",
+    "description": "Mechanics references, tutorials, cheat sheets, and community guides. Older guides are labeled when their game-version relevance is limited."
+  },
+  {
+    "id": "calculators",
+    "title": "Calculators and production planners",
+    "description": "Web, desktop, and in-game-adjacent tools for ratios, production chains, quality loops, power, balancers, and layout optimization."
+  },
+  {
+    "id": "blueprints",
+    "title": "Blueprint sites, editors, and libraries",
+    "description": "Blueprint sharing sites, browser editors, string codecs, generators, and in-game blueprint utilities."
+  },
+  {
+    "id": "circuits",
+    "title": "Circuit network programming and simulation",
+    "description": "Compilers, IDEs, simulators, and display/control mods for building logic inside Factorio."
+  },
+  {
+    "id": "art",
+    "title": "Art, music, maps, and visualization",
+    "description": "Image-to-blueprint tools, MIDI music generators, map exporters, timelapse tools, and graphics resources."
+  },
+  {
+    "id": "mods-qol",
+    "title": "Quality-of-life and information mods",
+    "description": "Planners, recipe browsers, status displays, task lists, cursor tools, reach tools, and other interface improvements."
+  },
+  {
+    "id": "mods-logistics",
+    "title": "Logistics, trains, storage, and production mods",
+    "description": "Train dispatchers, vehicles, drones, loaders, warehouses, and logistics infrastructure."
+  },
+  {
+    "id": "mods-world",
+    "title": "World, decoration, combat, and power mods",
+    "description": "Terrain, biomes, decoration, visual effects, combat changes, and alternative power systems."
+  },
+  {
+    "id": "mods-overhaul",
+    "title": "Overhauls and challenge modpacks",
+    "description": "Large total conversions and challenge packs. Compatibility notes are especially important here; many overhauls are mutually exclusive."
+  },
+  {
+    "id": "testing",
+    "title": "Sandbox, testing, and editor tools",
+    "description": "Creative/sandbox environments, editor extensions, mod test harnesses, coverage, and profiling tools."
+  },
+  {
+    "id": "servers",
+    "title": "Multiplayer, servers, and operations",
+    "description": "Hosted services, Docker images, server managers, Clusterio, scenarios, RCON clients, monitoring, chat bridges, and deployment tooling."
+  },
+  {
+    "id": "modding",
+    "title": "Modding frameworks, data tooling, and developer utilities",
+    "description": "API typings, Lua/Rust/TypeScript frameworks, data exporters, spritesheet tools, localization, packaging, and release automation."
+  },
+  {
+    "id": "community",
+    "title": "Communities, discovery, and creators",
+    "description": "Forums, Discords, subreddits, GitHub discovery feeds, speedrunning, community writing, and video creators."
+  }
+]
