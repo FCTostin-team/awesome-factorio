@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="image/awesome-factorio.png" alt="Awesome Factorio" width="640">
-</p>
+[![awesome-adops-site](https://github.com/FCTostin-team/awesome-factorio/blob/main/image/awesome-factorio.png)](https://github.com/FCTostin-team/awesome-factorio/pulls)
 
-<h1 align="center">Awesome Factorio</h1>
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-D35A05.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 <p align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
+  <a href="https://github.com/FCTostin-team/awesome-factorio/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
   <a href="LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/badge/license-Apache--2.0-blue.svg"></a>
   <img alt="Curated resources" src="https://img.shields.io/badge/resources-394-brightgreen.svg">
-  <img alt="Last checked" src="https://img.shields.io/badge/last%20checked-2026-10-31-orange.svg">
 </p>
 
 > A curated, English-language map of useful Factorio websites, tools, mods, repositories, servers, modding utilities, and communities.
